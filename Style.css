@@ -4,3 +4,11 @@ body{
     background-repeat: no-repeat;
     background-position: center;
 }
+.header-title{
+    font-size: 2em;
+    font-weight: 700;
+}
+.header-secondary{
+    font-size: 1.5em;
+    font-weight: 400;
+}
